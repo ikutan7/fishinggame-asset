@@ -1,1 +1,1 @@
-Assets for my game. You can play it at my site at ikutan7.github.io
+Assets for my game. You can play it at my site at https://ikutan7.github.io
